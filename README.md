@@ -1,4 +1,4 @@
-# crema-d-dataset
+# Emotion Recognition
 Dataset
 
 Please refer the notebook for code reference.
